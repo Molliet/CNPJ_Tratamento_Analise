@@ -81,10 +81,10 @@ Explore as redes sociais empresariais com profundidade e veja quem está mais co
 ---
 
 ## Melhorias Futuras
-- **Otimização de desempenho para grandes volumes de dados**
+- **Otimização do código**
+- **Otimização de desempenho para grandes volumes de dados** 
 - **Integração com outras bases governamentais para cruzamento de informações**
 - **Interface web para facilitar a interação com usuários menos técnicos**
-- **Automatização de atualizações periódicas dos dados**
-- **Análises preditivas utilizando Machine Learning**
 
-**Agora, mãos à obra e bons insights!** 🚀📊
+
+
